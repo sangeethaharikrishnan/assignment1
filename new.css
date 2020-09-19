@@ -1,0 +1,52 @@
+
+div.ex1 {
+  border: 1px solid black;
+  background-color: lightpink;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+div.ex2 {
+  border: 1px solid black;
+  background-color:blue;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+div.ex3 {
+  border: 1px solid black;
+  background-color:orange;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+h2.c1 {
+   width: 80px;
+   height: 30px;
+   padding: 7px;
+   border: 1px solid black;  
+   background-color: pink; 
+   text-align:center-right;
+}
+h2.c2 {
+	
+  width: 50px;
+  height: 30px;
+  padding: 5px;
+  border: 1px solid black; 
+  background-color: pink; 
+  text-align:center-right;
+
+}
+h2.c3 {
+  width: 60px;
+  height: 30px;
+  padding: 8px;
+  border: 1px solid black;  
+  background-color: pink; 
+  text-align:center-right;
+
+}
